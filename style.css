@@ -12,3 +12,7 @@ body {
     background-color: black;
     text-align: center;
 }
+
+.commands-container {
+    color: white;
+}
