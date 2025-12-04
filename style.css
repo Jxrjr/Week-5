@@ -11,6 +11,7 @@ body {
     color: white;
     background-color: black;
     text-align: center;
+    border: white solid 2px;
 }
 
 .commands-container {
